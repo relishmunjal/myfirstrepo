@@ -1,0 +1,18 @@
+{
+  "name": "contact_list",
+  "version": "1.0.0",
+  "description": "my contact list",
+  "main": "index.js",
+  "scripts": {
+    "start":"nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "relish munjal",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.0.2",
+    "ejs-lint": "^1.1.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.10"
+  }
+}
